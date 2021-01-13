@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/FachdidaktikPM/static/js/main.81d41f06.chunk.js",
-    "main.js.map": "/FachdidaktikPM/static/js/main.81d41f06.chunk.js.map",
-    "runtime-main.js": "/FachdidaktikPM/static/js/runtime-main.11382c63.js",
-    "runtime-main.js.map": "/FachdidaktikPM/static/js/runtime-main.11382c63.js.map",
-    "static/js/2.fc2060d5.chunk.js": "/FachdidaktikPM/static/js/2.fc2060d5.chunk.js",
-    "static/js/2.fc2060d5.chunk.js.map": "/FachdidaktikPM/static/js/2.fc2060d5.chunk.js.map",
-    "index.html": "/FachdidaktikPM/index.html",
-    "static/js/2.fc2060d5.chunk.js.LICENSE.txt": "/FachdidaktikPM/static/js/2.fc2060d5.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.81d41f06.chunk.js",
+    "main.js.map": "/static/js/main.81d41f06.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a8265fe2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a8265fe2.js.map",
+    "static/js/2.fc2060d5.chunk.js": "/static/js/2.fc2060d5.chunk.js",
+    "static/js/2.fc2060d5.chunk.js.map": "/static/js/2.fc2060d5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.fc2060d5.chunk.js.LICENSE.txt": "/static/js/2.fc2060d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.11382c63.js",
+    "static/js/runtime-main.a8265fe2.js",
     "static/js/2.fc2060d5.chunk.js",
     "static/js/main.81d41f06.chunk.js"
   ]
