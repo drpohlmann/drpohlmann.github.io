@@ -29,10 +29,10 @@ Die Webseite basiert auf React. Die zu ändernden Dateien liegen unter dem Order
 > ---- common  
 > ---- publications  
 > ---- vita  
-> Contact.js  
-> Picture.js  
-> Publications.js  
-> Vita.js  
+> -- Contact.js  
+> -- Picture.js  
+> -- Publications.js  
+> -- Vita.js  
 > [...]  
 
 Vita und Pubklikationen können in den Dateien Publications.js und Vita.js angepasst werden, das Schema sollte ersichtlich sein. Das Rendering sollte i.d.R. nicht angepasst werden müssen.
