@@ -19,7 +19,7 @@ Dieses Dokument fasst zusammen, in welcher Art die Webseite geupdated werden kan
 1. Entpacken des Zip Archivs in einen Ordner, im besten Fall in den Nutzerdokumenten.
 2. git bash öffnen (siehe Schritt 1, Installations Tools), wie oben mit cd in das soeben erstellte Verzeichnis wechseln (Schritt 1)
 3. In Git Bash eingeben:
-> npm install
+> npm install  
 Diese Prozess kann je nach Internetverbindung 5-10 Minuten dauern
 
 ## Ändern der Webseite
